@@ -1,3 +1,3 @@
-# :computer::calling: Frases do Dia :computer::calling:
- 
-Desenvolvimento mobile :cupid::iphone:
+# Aplicativo Frases do Dia 
+
+Desenvolvimento mobile em flutter :cupid::iphone:
