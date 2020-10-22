@@ -1,3 +1,3 @@
-# Frases do Dia 
-
-A new Flutter project.
+# :computer::calling: Frases do Dia :computer::calling:
+ 
+Desenvolvimento mobile :cupid::iphone:
